@@ -6,6 +6,7 @@
 body {
   width: 100%;
   height: 750px;
+  /*for details about this bg image please check read me file*/
   background-image: url(./images/Screenshot_20210126-214258037.jpg);
   background-repeat: no-repeat;
   background-size: cover;
